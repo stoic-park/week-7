@@ -1,16 +1,16 @@
-## N주차
+## 7주차
 
 ### 기간
 
-YYYY.MM.DD - YYYY.MM.DD
+2025.08.06 - 2025.08.13
 
 ### 문제
 
-1. [문제명](링크)
-2. [문제명](링크)
-3. [문제명](링크)
-4. [문제명](링크)
-5. [문제명](링크)
+1. [Group Anagrams](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/)
+2. [Longest Substring Without Repeating Characters](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)
+3. [Longest Palindromic Substring](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/)
+4. [Excel Sheet Column Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/817/)
+5. [Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)
 
 ### 규칙
 
